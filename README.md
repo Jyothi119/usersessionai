@@ -10,3 +10,4 @@
 8.Eventhough the accuracy got decreased after performing sampling but the performance metrics was good.
 9.Then I normalized the data by using standard scalar method in python to normalize any big variances.
 10.After this I performed the exploratory data analysis to find the patterns. The final thing is training the model by using training data and then find the confusion matrix to describe the performance of my classification model.
+using matthew's corrleation coefficient i predicted the quality of my model using the values obtained from the confusion matrix.
